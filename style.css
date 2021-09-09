@@ -56,6 +56,17 @@ h3{
     font-family:'Open Sans', sans-serif;
     --animate-delay: 1s;
 }
+.title2{
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    transform: translate(10%, -50%);
+    max-width: 90%;
+    padding: 2em 3em;
+    background: rgba(0 ,0 ,0 , 0.4);
+    text-shadow: 0px 0px 0px #131415;
+    font-family:'Open Sans', sans-serif;
+}
 .button{
     position: absolute;
     bottom: 10%;
