@@ -1,0 +1,22 @@
+#container{
+    height: 1800px;
+    width: 1400px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-family: sans-serif;
+    color: #000099;
+    font-size: 48px;
+}
+h2{
+    font-family: sans-serif;
+    color: #0000ff;
+    font-size: 36px;
+}
+.title{
+    margin-right: auto;
+    margin-left: auto;
+    width: 70px;
+}
