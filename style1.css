@@ -1,5 +1,5 @@
 #container{
-   
+
     width: 1400px;
     margin-top: 50px;
     margin-left: auto;
@@ -46,7 +46,7 @@ body{
 }
 #particles-js{
     width: auto;
-    height: 2000%;
+    height: auto;
     background-color: rgba(0 ,0 ,0 , 0.4);
     background-image: url('');
     background-size: cover;
